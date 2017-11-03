@@ -1,0 +1,10 @@
+C:\Users\karla\Documents\Visual Studio 2017\Projects\TrainingSystem\TrainingSystem\bin\Debug\TrainingSystem.exe.config
+C:\Users\karla\Documents\Visual Studio 2017\Projects\TrainingSystem\TrainingSystem\bin\Debug\TrainingSystem.exe
+C:\Users\karla\Documents\Visual Studio 2017\Projects\TrainingSystem\TrainingSystem\bin\Debug\TrainingSystem.pdb
+C:\Users\karla\Documents\Visual Studio 2017\Projects\TrainingSystem\TrainingSystem\obj\Debug\TrainingSystem.csprojResolveAssemblyReference.cache
+C:\Users\karla\Documents\Visual Studio 2017\Projects\TrainingSystem\TrainingSystem\obj\Debug\TrainingSystem.Properties.Resources.resources
+C:\Users\karla\Documents\Visual Studio 2017\Projects\TrainingSystem\TrainingSystem\obj\Debug\TrainingSystem.csproj.GenerateResource.Cache
+C:\Users\karla\Documents\Visual Studio 2017\Projects\TrainingSystem\TrainingSystem\obj\Debug\TrainingSystem.csproj.CoreCompileInputs.cache
+C:\Users\karla\Documents\Visual Studio 2017\Projects\TrainingSystem\TrainingSystem\obj\Debug\TrainingSystem.exe
+C:\Users\karla\Documents\Visual Studio 2017\Projects\TrainingSystem\TrainingSystem\obj\Debug\TrainingSystem.pdb
+C:\Users\karla\Documents\Visual Studio 2017\Projects\TrainingSystem\TrainingSystem\obj\Debug\TrainingSystem.TrainingSystem.resources
